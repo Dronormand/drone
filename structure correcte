@@ -1,0 +1,15 @@
+/ton-depot-github
+│
+├── public/
+│   └── vite.svg (et autres fichiers statiques)
+│
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── (autres fichiers React)
+│
+├── index.html
+├── package.json
+├── vite.config.js
+├── .gitignore
+└── README.md (facultatif)
